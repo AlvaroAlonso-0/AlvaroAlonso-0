@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/9f/a4/8b/9fa48b09b94618f8657fdfb4efdd0e3d.jpg)](https://alvaroalonso-0.github.io)
+<!-- [![MasterHead](https://i.pinimg.com/originals/9f/a4/8b/9fa48b09b94618f8657fdfb4efdd0e3d.jpg)](https://alvaroalonso-0.github.io) -->
 
 <h1 align="center">Hi 👋, I'm Alvaro Alonso</h1>
 <h3 align="center">A passionate computer science student from Spain</h3>
