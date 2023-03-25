@@ -7,15 +7,15 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvaroalonso-0&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroalonso-0" /> </p> -->
 
-- 🔭 I’m currently working on **Figbot**
+- 🔭 I’m currently working on **Degree Final Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Computational Vision**
 
 - 👨‍💻 All of my projects are available at [alvaroalonso-0.github.io](https://alvaroalonso-0.github.io/)
 
 - 💬 Ask me about **Java, Python or C**
 
-- 📫 How to reach me **alvaro.alonso.miguel@alumnos.upm.es**
+- 📫 How to reach me **alonso.miguel.alvaro1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
