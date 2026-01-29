@@ -9,13 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c543af9dd505c21d3d8d66575b25d43b/tumblr_p0ht0jtumP1vu5dwpo1_500.gif">
 
- - 🔭 I’m currently working on **Fungi**
+ - 🔭 I’m currently working on **Sail**
 
 <!-- - 🌱 I’m currently learning **Computational Vision** -->
 
 - 👨‍💻 All of my projects are available at [alvaroalonso-0.github.io](https://alvaroalonso-0.github.io/)
 
-- 💬 Ask me about **Java, Python or C**
+<!-- - 💬 Ask me about **Java, Python or C** -->
 
 - 📫 How to reach me **alonso.miguel.alvaro1@gmail.com**
 
