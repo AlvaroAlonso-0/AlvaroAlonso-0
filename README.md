@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/routed-~$650M-4cc9b0?style=flat-square" alt="$650M routed"/>
   <img src="https://img.shields.io/badge/users-~200-5a6772?style=flat-square" alt="200 users"/>
   <img src="https://img.shields.io/badge/TVL-~$600k-5a6772?style=flat-square" alt="$600k TVL"/>
-  <img src="https://img.shields.io/badge/Q4_2025_APY-8.91%25-4cc9b0?style=flat-square" alt="Q4 APY"/>
-  <img src="https://img.shields.io/badge/Q1_2026_USD_APY-6.06%25-4cc9b0?style=flat-square" alt="Q1 APY"/>
 </p>
 
 ---
