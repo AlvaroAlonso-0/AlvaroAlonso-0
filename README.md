@@ -12,12 +12,6 @@
   <a href="mailto:alonso.miguel.alvaro1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/routed-~$650M-4cc9b0?style=flat-square" alt="$650M routed"/>
-  <img src="https://img.shields.io/badge/users-~200-5a6772?style=flat-square" alt="200 users"/>
-  <img src="https://img.shields.io/badge/TVL-~$600k-5a6772?style=flat-square" alt="$600k TVL"/>
-</p>
-
 ---
 
 ### About me
