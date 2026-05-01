@@ -1,90 +1,76 @@
-<!-- [![MasterHead](https://i.pinimg.com/originals/9f/a4/8b/9fa48b09b94618f8657fdfb4efdd0e3d.jpg)](https://alvaroalonso-0.github.io) -->
+<h1 align="center">Hi, I'm Álvaro Alonso 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Alvaro Alonso</h1>
-<h3 align="center">A passionate computer science graduate from Spain</h3>
-
-<p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=alvaroalonso-0&label=Profile%20views&color=0e75b6&style=flat" alt="alvaroalonso-0" /> 
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c543af9dd505c21d3d8d66575b25d43b/tumblr_p0ht0jtumP1vu5dwpo1_500.gif">
-
- - 🔭 I’m currently working on **Sail**
-
-<!-- - 🌱 I’m currently learning **Computational Vision** -->
-
-- 👨‍💻 All of my projects are available at [alvaroalonso-0.github.io](https://alvaroalonso-0.github.io/)
-
-<!-- - 💬 Ask me about **Java, Python or C** -->
-
-- 📫 How to reach me **alonso.miguel.alvaro1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alvaro-alonso-miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro-alonso-miguel" height="30" width="40" /></a>
-<a href="https://leetcode.com/Ryukk00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ryukk00" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a> 
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-</p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroalonso-0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alvaroalonso-0" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvaroalonso-0&show_icons=true&locale=en&theme=tokyonight" alt="alvaroalonso-0" /></p> -->
-
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=alvaroalonso-0&row=1&theme=dracula" alt="alvaroalonso-0"/>
-    </a> 
-</p>
 <p align="center">
-  <a>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvaroalonso-0&&theme=tokyonight" alt="alvaroalonso-0" />
-  </a>  
+  <strong>Lead Engineer · Intelligence Layer at <a href="https://sail.money">Sail</a></strong><br/>
+  Quantitative DeFi · Risk monitoring · Cross-chain yield optimization<br/>
+  Madrid, Spain · open to remote / EU
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/alvaro-alonso-miguel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://alvaroalonso-0.github.io"><img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:alonso.miguel.alvaro1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### What I work on
+
+I design and implement quantitative systems where most of the work is mathematics, and the code is the bridge that takes the math to production. Lead engineer at **[Sail](https://sail.money)**, where I founded the intelligence layer from a blank page:
+
+- **Cross-chain optimization engine** — formalized portfolio allocation as a constrained Markov Decision Process. Simulated annealing optimizer with Metropolis-Hastings acceptance for the non-convex objective, plus a CNN meta-controller predicting hyperparameters from APY/TVL history (3-5× search-space reduction). Energy-aware cost model covering execution, slippage, and TVL-dependent price impact.
+- **Sonar (risk monitoring)** — z-score anomaly detection over multi-horizon baselines (1d / 7d / 30d), dual-mode SPIKE/TREND scoring (80/20 vs 40/60 weighting), tier-based execution cycles (1h / 2h / 6h), and a financial-inertia mechanism that cut unnecessary portfolio churn by 43 %.
+
+The full mathematical framework — formulation, proofs, and empirical validation — is documented in two public research papers I authored.
+
+### Production validation
+
+> First six months in production: **~$650M of volume routed for ~200 users at ~$600k TVL.**
+
+| Quarter | Mean APY | vs. best static | vs. T-Bills | Notes |
+|---|---|---|---|---|
+| Q4 2025 | **8.91 %** | +5.43 % | +123.87 % | 20 sources, single-currency |
+| Q1 2026 | **6.06 %** | — | +44.3 % | 32 sources, multi-currency |
+
+All returns net of every fee in the cost model.
+
+### Sonar — defensive wins (Q1 2026)
+
+Sonar suspended user exposure ahead of two publicly confirmed exploits in Q1 2026 — detection happened *before* public confirmation in both cases:
+
+- **Moonwell oracle exploit** — Feb 15, 2026. $1.78M bad debt, 181 borrowers harmed.
+- **Resolv Protocol exploit** — Mar 22, 2026. ~$80M minted via a compromised AWS KMS key, ~$25M extracted.
+
+### Selected publications
+
+- *Cross-Chain Optimization Engine V2 — Smart Spike Framework* (Jan 2026)
+- *Cross-Chain Optimization Engine V1* (Oct 2025)
+- *Sail Agent Performance Analysis — Q4 2025* (sole author, Jan 2026)
+- *Sail Agent Performance Analysis — Q1 2026* (sole author, Apr 2026)
+
+---
+
+### Pinned
+
+📊 **[optcg](https://github.com/AlvaroAlonso-0/optcg)** — investment portfolio tracker (~6.8k LOC). Python CLI + Textual TUI, SQLite, live price-scraping pipeline with Cloudflare-aware cookie extraction across Chrome / Arc / Brave / Edge on macOS + Windows, offline HTML dashboard, iCloud sync, P&L logic.
+
+🃏 **[Poker Vision](https://github.com/AlvaroAlonso-0/PokerHandsRecongition)** — VGG16-based card recognition + Monte Carlo equity simulation; documented in a university publication.
+
+🤖 **[Figbot](https://github.com/AlvaroAlonso-0/Figbot)** — Java multi-agent system for Twitch chat moderation.
+
+### Education
+
+**B.S. Computer Science — Universidad Politécnica de Madrid · 2018 – 2023**
+GPA 8.56 / 10. *Matrículas de Honor* in Operating Systems, Compilers, Semantic Web & Knowledge Graphs, Art of Programming, Prolog, Programming Project, Data Center Project.
+
+### Stack
+
+```
+Math / ML — NumPy · SciPy · scikit-learn · PyTorch · CNNs ·
+            simulated annealing · Monte Carlo · time-series interpolation
+Code      — Python · Java · C · C# · TypeScript · Bash · SQL
+Backend   — FastAPI · MongoDB · .NET · Next.js / React
+```
+
+<br/>
+<sub>Languages: Spanish (native) · English (C1) · French (basic)</sub>
