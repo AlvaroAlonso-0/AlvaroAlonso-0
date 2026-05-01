@@ -90,12 +90,6 @@ All four are sole-author work.
   <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/AlvaroAlonso-0/AlvaroAlonso-0/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/AlvaroAlonso-0/AlvaroAlonso-0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlvaroAlonso-0/AlvaroAlonso-0/output/github-snake.svg">
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/AlvaroAlonso-0/AlvaroAlonso-0/output/github-snake.svg">
-</picture>
-
 ---
 
 ### Pinned
