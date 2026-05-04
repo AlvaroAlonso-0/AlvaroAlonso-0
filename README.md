@@ -16,7 +16,7 @@
 
 ### About me
 
-I founded the intelligence layer at **[Sail](https://sail.money)** — a DeFi yield-optimization protocol on Base and Arbitrum — from a blank page. Two production systems, both designed and implemented end-to-end:
+I founded the intelligence layer at **[Sail](https://sail.money)** — a DeFi yield-optimization protocol on Base and Arbitrum — from a blank page, and now lead a team of two engineers building it. Two production systems, both designed and implemented end-to-end:
 
 - **Cross-chain optimization engine** — constrained MDP formulation, simulated annealing with Metropolis-Hastings acceptance, CNN meta-controller predicting hyperparameters from APY/TVL history (3-5× search-space reduction). Energy-aware cost model covering execution, slippage, and TVL-dependent price impact.
 - **Sonar (risk monitoring)** — z-score anomaly detection over multi-horizon baselines (1d / 7d / 30d), dual-mode SPIKE/TREND scoring, tier-based execution cycles, financial-inertia mechanism that cut unnecessary portfolio churn by 43 %.
