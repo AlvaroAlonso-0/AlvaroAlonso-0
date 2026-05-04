@@ -1,5 +1,5 @@
 <h1 align="center">Álvaro Alonso</h1>
-<h3 align="center">Lead Engineer · Intelligence Layer at <a href="https://sail.money">Sail</a></h3>
+<h3 align="center">Head of Sail Intelligence at <a href="https://sail.money">Sail</a></h3>
 
 <p align="center">
   Quantitative DeFi · Risk monitoring · Cross-chain yield optimization<br/>
