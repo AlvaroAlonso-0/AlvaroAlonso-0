@@ -75,9 +75,9 @@ Sonar suspended user exposure ahead of two publicly confirmed exploits — detec
 
 All four are sole-author work.
 
-- 📄 [Cross-Chain Optimization Engine V2 — Smart Spike Framework](https://docsend.com/view/ucrfnewiuy9t2fwm) · *paper · Jan 2026*
-- 📄 [Cross-Chain Optimization Engine V1](https://t.co/x2IPJbcumZ) · *paper · Oct 2025*
-- 📊 [Sail Agent Performance Analysis — Q4 2025](https://t.co/tafqaH8M27) · *report · Jan 2026*
+- 📄 [Cross-Chain Optimization Engine V2 — Smart Spike Framework](https://www.linkedin.com/pulse/sail-optimization-engine-v2-mathematical-framework-alonso-miguel-nt2le/) · *paper · Jan 2026*
+- 📄 [Cross-Chain Optimization Engine V1](https://www.linkedin.com/feed/update/urn:li:activity:7392121978276528128/) · *paper · Oct 2025*
+- 📊 [Sail Agent Performance Analysis — Q4 2025](https://www.linkedin.com/pulse/how-automated-yield-optimization-outperformed-static-q4-alvaro-ortxe/) · *report · Jan 2026*
 - 📊 [Sail Agent Performance Analysis — Q1 2026](https://docsend.com/view/6xp4wmeb8nc7rxha) · *report · Apr 2026*
 
 ---
