@@ -77,7 +77,7 @@ Sonar suspended user exposure ahead of two publicly confirmed exploits — detec
 
 All sole-author work.
 
-- ✍️ [Quant Mentality: How We Use Convolutional Networks to Outyield DeFi](https://www.linkedin.com/in/alvaro-alonso-miguel/recent-activity/articles/) · *long-form · May 2026*
+- ✍️ [Quant Mentality: How We Use Convolutional Networks to Outyield DeFi](https://www.linkedin.com/pulse/quant-mentality-how-we-use-convolutional-networks-alonso-miguel-kw9ue/) · *long-form · May 2026*
 - 📄 [Cross-Chain Optimization Engine V2 — Smart Spike Framework](https://www.linkedin.com/pulse/sail-optimization-engine-v2-mathematical-framework-alonso-miguel-nt2le/) · *paper · Jan 2026*
 - 📄 [Cross-Chain Optimization Engine V1](https://www.linkedin.com/feed/update/urn:li:activity:7392121978276528128/) · *paper · Oct 2025*
 - 📊 [Sail Agent Performance Analysis — Q4 2025](https://www.linkedin.com/pulse/how-automated-yield-optimization-outperformed-static-q4-alvaro-ortxe/) · *report · Jan 2026*
