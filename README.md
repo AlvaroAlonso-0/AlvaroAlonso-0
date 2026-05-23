@@ -16,10 +16,11 @@
 
 ### About me
 
-I founded the intelligence layer at **[Sail](https://sail.money)** — a DeFi yield-optimization protocol on Base and Arbitrum — from a blank page, and now lead a team of two engineers building it. Two production systems, both designed and implemented end-to-end:
+I founded the intelligence layer at **[Sail](https://sail.money)** — a DeFi yield-optimization protocol on Base and Arbitrum — from a blank page, and now lead a team of two engineers building it. Three production systems, all designed and implemented end-to-end (or, in the case of the protocol, contributed to as a core author):
 
 - **Cross-chain optimization engine** — constrained MDP formulation, simulated annealing with Metropolis-Hastings acceptance, CNN meta-controller predicting hyperparameters from APY/TVL history (3-5× search-space reduction). Energy-aware cost model covering execution, slippage, and TVL-dependent price impact.
 - **Sonar (risk monitoring)** — z-score anomaly detection over multi-horizon baselines (1d / 7d / 30d), dual-mode SPIKE/TREND scoring, tier-based execution cycles, financial-inertia mechanism that cut unnecessary portfolio churn by 43 %.
+- **Sail Protocol** *(contributor)* — the first onchain Separately-Managed-Account protocol for autonomous agents. A ~590-SLOC Solidity kernel mediates Safe custody, EIP-712 mandates, and gas-capped `staticcall` permissions. Replaces the third-party permission layer with an in-house design (audit-prep).
 
 I also defined the database schema, built the first user-facing UIs, and represented the intelligence layer to venture investors during fundraising rounds and the CEO during roadmap discussions.
 
@@ -34,6 +35,7 @@ The full mathematical framework is documented in two public research papers I au
 <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />&nbsp;
+<img src="https://skillicons.dev/icons?i=solidity" height="50" alt="Solidity" />&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />&nbsp;
 <img src="https://skillicons.dev/icons?i=c" height="50" alt="C" />&nbsp;
 <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />&nbsp;
@@ -51,12 +53,12 @@ The full mathematical framework is documented in two public research papers I au
 
 ### Production validation
 
-> First six months in production: **~$650M of volume routed** for **~200 users** at **~$600k TVL**.
+> First six months in production: **~$700M of volume routed** for **~200 users** at **~$600k TVL**.
 
 | Quarter | Mean APY | vs. best static | vs. T-Bills | Scope |
 |---|---|---|---|---|
 | **Q4 2025** | `8.91 %` | +5.43 % | +123.87 % | 20 sources, single-currency |
-| **Q1 2026** | `6.06 %` (USD) | — | +44.3 % | 32 sources, multi-currency |
+| **Q1 2026** | `6.06 %` (USD) | +6.03 % | +44.3 % | 32 sources, multi-currency |
 
 All returns net of every fee in the cost model.
 
@@ -73,8 +75,9 @@ Sonar suspended user exposure ahead of two publicly confirmed exploits — detec
 
 ### Publications
 
-All four are sole-author work.
+All sole-author work.
 
+- ✍️ [Quant Mentality: How We Use Convolutional Networks to Outyield DeFi](https://www.linkedin.com/in/alvaro-alonso-miguel/recent-activity/articles/) · *long-form · May 2026*
 - 📄 [Cross-Chain Optimization Engine V2 — Smart Spike Framework](https://www.linkedin.com/pulse/sail-optimization-engine-v2-mathematical-framework-alonso-miguel-nt2le/) · *paper · Jan 2026*
 - 📄 [Cross-Chain Optimization Engine V1](https://www.linkedin.com/feed/update/urn:li:activity:7392121978276528128/) · *paper · Oct 2025*
 - 📊 [Sail Agent Performance Analysis — Q4 2025](https://www.linkedin.com/pulse/how-automated-yield-optimization-outperformed-static-q4-alvaro-ortxe/) · *report · Jan 2026*
@@ -97,14 +100,14 @@ All four are sole-author work.
 | | | |
 |---|---|---|
 | **[optcg](https://github.com/AlvaroAlonso-0/optcg)** | Investment portfolio tracker | Python · SQLite · Textual TUI · ~6.8k LOC |
-| **[Poker Vision](https://github.com/AlvaroAlonso-0/PokerHandsRecongition)** | VGG16 card recognition + Monte Carlo equity sim | Python · PyTorch · OpenCV |
+| **[Poker Vision](https://github.com/AlvaroAlonso-0/PokerHandsRecongition)** | VGG16 card recognition + Monte Carlo equity sim · [UPM publication](https://oa.upm.es/74990/) | Python · PyTorch · OpenCV |
 | **[Figbot](https://github.com/AlvaroAlonso-0/Figbot)** | Multi-agent Twitch moderation bot | Java |
 
 ---
 
 ### Education
 
-**B.S. Computer Science — Universidad Politécnica de Madrid · 2018 – 2023**
+**B.S. Computer Science — Universidad Politécnica de Madrid · 2019 – 2023**
 GPA `8.56 / 10`. *Matrículas de Honor* in Operating Systems, Compilers, Semantic Web & Knowledge Graphs, Art of Programming, Prolog, Programming Project, Data Center Project.
 
 ---
