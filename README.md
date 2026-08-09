@@ -1,9 +1,9 @@
 <h1 align="center">Álvaro Alonso</h1>
-<h3 align="center">Head of Sail Intelligence at <a href="https://sail.money">Sail</a></h3>
+<h3 align="center">Software Engineer at <a href="https://bendingspoons.com">Bending Spoons</a> (WeTransfer) · Lead Engineer at <a href="https://sail.money">Sail</a></h3>
 
 <p align="center">
-  Quantitative DeFi · Risk monitoring · Cross-chain yield optimization<br/>
-  <sub>Madrid, Spain · open to remote / EU</sub>
+  Onchain protocols · Quantitative DeFi · Risk monitoring · Cross-chain yield optimization<br/>
+  <sub>Madrid, Spain</sub>
 </p>
 
 <p align="center">
@@ -16,11 +16,14 @@
 
 ### About me
 
-I founded the intelligence layer at **[Sail](https://sail.money)** — a DeFi yield-optimization protocol on Base and Arbitrum — from a blank page, and now lead a team of two engineers building it. Three production systems, all designed and implemented end-to-end (or, in the case of the protocol, contributed to as a core author):
+Software Engineer at **[Bending Spoons](https://bendingspoons.com)**, on the **WeTransfer** team *(since Aug 2026)*.
 
+**Lead Engineer at [Sail](https://sail.money)** — open-source infrastructure for onchain separately managed accounts. I founded the intelligence layer from a blank page, and since March 2026 I own technical direction across the whole stack: Solidity protocol, TypeScript SDK/CLI, Python services, docs.
+
+- **[Sail Protocol](https://github.com/sail-money/Protocol)** — a minimal account-abstraction primitive for SMAs. Capital stays in a self-custodial Safe; a mandate is a set of user-deployed `IPermission` contracts, and the kernel evaluates the named permission via `staticcall` under a fixed gas cap, forwarding to the Safe only on `true`. Reentrancy and state mutation are structurally impossible; every failure mode is fail-closed. Trusted core ~1,022 nSLOC, reviewed by Octane across three analyses, deployed at identical CREATE2 addresses on **12 chains**.
+- **[Sailor](https://github.com/sail-money/Sailor)** — the open-source harness that turns any AI coding agent into a builder and operator of DeFi agents. SDK (encrypted keyring, EIP-712 signing, dispatch submission), CLI, local dashboard, and 22 agent skills. Shipped on npm as [`@sail.money/sailor`](https://www.npmjs.com/package/@sail.money/sailor) — MIT.
 - **Cross-chain optimization engine** — constrained MDP formulation, simulated annealing with Metropolis-Hastings acceptance, CNN meta-controller predicting hyperparameters from APY/TVL history (3-5× search-space reduction). Energy-aware cost model covering execution, slippage, and TVL-dependent price impact.
 - **Sonar (risk monitoring)** — z-score anomaly detection over multi-horizon baselines (1d / 7d / 30d), dual-mode SPIKE/TREND scoring, tier-based execution cycles, financial-inertia mechanism that cut unnecessary portfolio churn by 43 %.
-- **Sail Protocol** *(contributor)* — the first onchain Separately-Managed-Account protocol for autonomous agents. A ~590-SLOC Solidity kernel mediates Safe custody, EIP-712 mandates, and gas-capped `staticcall` permissions. Replaces the third-party permission layer with an in-house design (audit-prep).
 
 I also defined the database schema, built the first user-facing UIs, and represented the intelligence layer to venture investors during fundraising rounds and the CEO during roadmap discussions.
 
